@@ -13,6 +13,15 @@ Sora's functionality allows users to request specific changes to the video outpu
 In addition to OpenAI's advancements with Sora, several other companies are exploring AI-generated video technologies, expanding the landscape of digital content creation. As the technology evolves, it holds the potential to transform how professionals and creatives produce videos, making high-quality content generation more accessible to a broader audience.
 
 #
+### Where's SORA?
+
+![Where's SORA](https://github.com/user-attachments/assets/7b912160-5705-4f7b-a61c-5f1455f5bb80)
+
+OpenAI's text-to-video model, Sora, has experienced delays in its public release, despite initial expectations for a 2024 launch. Announced in February 2024, Sora demonstrated the ability to generate minute-long videos from textual prompts, showcasing its potential to revolutionize video content creation. However, as of November 2024, OpenAI has not provided a definitive release date, leading to speculation about the reasons behind the postponement.
+
+Several factors may contribute to Sora's delayed release. Technical challenges, such as fine-tuning the model's capabilities and ensuring the generation of realistic, unbiased, and safe content, are likely significant considerations. Additionally, OpenAI's commitment to responsible AI deployment may involve extensive testing and the implementation of safeguards to prevent misuse. External factors, including evolving regulations and ethical considerations surrounding AI-generated content, could also influence the timeline. These complexities underscore the importance of a cautious approach to releasing advanced AI technologies like Sora.
+
+#
 ### AI Videos in 2024
 
 Several companies are making significant strides in AI-generated video technology, offering diverse solutions for various applications. Runway stands out with its advanced video editing platform that leverages machine learning to facilitate high-quality video production. This tool excels in converting text into videos, making it user-friendly for content creators who may not possess extensive technical skills. Synthesia is another key player, known for its realistic AI avatars that can deliver scripted content in multiple languages, which is particularly beneficial for corporate training and personalized marketing efforts.
